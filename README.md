@@ -16,7 +16,7 @@ An enterprise Power BI dashboard analyzing over **30 million US flight records**
 3. **Data Analysis:** Root cause analysis (Late Aircraft and Carrier issues drive >73% of delays).
 4. ![Data Analysis Page](<img width="2098" height="1752" alt="Data Analysis" src="https://github.com/user-attachments/assets/0c0798f4-3986-4cd9-97ae-c672e85ff651" />)
 5. **Performance Trend:** Visual timeline showing weekly patterns (Fridays peak at 24% delay rate).
-6. ![Performance Trend Page](<img width="2099" height="1752" alt="Performance Trend" src="https://github.com/user-attachments/assets/60f41788-c970-43e3-a89f-ca23a5914d09" />)
+6. ![Performance Trend Page](<C:\Users\HP\Pictures\Screenshots/>)
 
 ## 💡 Key Skills Demonstrated
 * **Big Data Optimization:** Preparing and compressing 30M+ rows inside Power Query.
