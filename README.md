@@ -12,8 +12,7 @@ An enterprise Power BI dashboard analyzing over **30 million US flight records**
 
 ## 🗂️ Architecture
 1. **Overview:** High-level operational view tracking top cities and airlines market share.
-2.(<<img width="2083" height="1753" alt="overview (2)" src="https://github.com/user-attachments/assets/c2df634c-8a2b-44c3-89c3-0165b5da6bfc" />
-/>)
+(<img width="2083" height="1753" alt="overview (2)" src="https://github.com/user-attachments/assets/c2df634c-8a2b-44c3-89c3-0165b5da6bfc" />)
 3. **Data Analysis:** Root cause analysis (Late Aircraft and Carrier issues drive >73% of delays).
 4. (<img width="2098" height="1752" alt="Data Analysis" src="https://github.com/user-attachments/assets/d621d7e3-25d8-409e-94aa-1e057bf6f96c" />/)
    
