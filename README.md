@@ -23,3 +23,9 @@ An enterprise Power BI dashboard analyzing over **30 million US flight records**
 ## 💡 Key Skills Demonstrated
 * **Big Data Optimization:** Preparing and compressing 30M+ rows inside Power Query.
 * **UI/UX Engineering:** Seamless native navigation using Power BI Bookmarks & Actions.
+
+
+
+
+## 📂 Download Project File
+* [Click here to download the Power BI (.pbix) File]([ضعي_الرابط_الذي_نسختيه_هنا](https://drive.google.com/file/d/1q4wEdTxiCANkF803hj6XayyEih_owwXY/view?usp=sharing))
